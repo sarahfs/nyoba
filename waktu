@@ -1,0 +1,1 @@
+while :; do date +%r; sleep 1 ; done
